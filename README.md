@@ -1,8 +1,8 @@
 <div width="auto" class="gambar">
 <img align="center" alt="coding" width="100%" height="" src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" >
 </div>
-<h1 align="center">Hi 👋, I'm Loh Awas</h1>
-<h3 align="center">I am a Front End Developer who focuses on efficiency and professionalism.</h3>
+<h1 align="center">Hi 👋, I'm Rio</h1>
+<h3 align="center">Intinya gwa suka efisiensi, bukan efisiensi yang anu ya hehe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijicabe&label=Profile%20views&color=0e75b6&style=flat" alt="bijicabe" /> </p>
 
