@@ -5,7 +5,7 @@
   src="https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif" >
 </div>
 
-<h1 align="center"> Hi 👋, I'm Taman Langit, u can call me Taman </h1>
+<h1 align="center"> Hi 👋, I'm Power F, u can call me Kupret or Mr F </h1>
 <h3 align="center">Intinya gwa suka efisiensi, bukan efisiensi yang anu ya hehe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijicabe&label=Profile%20views&color=0e75b6&style=flat" alt="bijicabe" /> </p>
